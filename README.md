@@ -10,12 +10,12 @@
 - Conclusion
 
 ### Executive Summary
-Employee burnout rate can affect the productivity of an organization. Ever since the COVID-19 pandemic, employees were forced the work from home, which may often benefit or curtain employee productivity.
+Every year, World Mental Health Day is celebrated on October 10th to raise awareness about mental health issues and explore ways to improve and support mental health. Employee burnout rate can affect the productivity of an organization. Ever since the COVID-19 pandemic, employees were forced the work from home, which may often benefit or curtail employee productivity. However, other factors may also play a role in employee energy depletion and exhaustion, such as one's role in the company, how many hours they worked, and their mental state.
 
 
 ### Problem Statement
 
-Using supervised learning and regression analysis, can we predict employee burnout rate? What features are most important when predicting the burnout rate?
+Using regression analysis, can we predict employee burnout rate? What features are most important when predicting the burnout rate?
 
 ### Data Sources
 - [Employee Burnout - Kaggle Dataset](https://www.kaggle.com/blurredmachine/are-your-employees-burning-out?select=train.csv)
